@@ -87,8 +87,6 @@ AI-Document-QA/
 
 ## 🖥️ Application Preview
 
-> Upload your project screenshot as `output.png` inside the project folder.
-
 <div align="center">
 
 <img src="output.png" alt="Project Output" width="900"/>
