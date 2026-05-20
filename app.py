@@ -73,7 +73,7 @@ if uploaded_file is not None:
 
         # Groq LLM
         llm = ChatGroq(
-            groq_api_key=os.getenv("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"),
+            groq_api_key=os.getenv("groq_api_key"),
             model_name="llama-3.3-70b-versatile"
         )
 
