@@ -28,11 +28,17 @@ The system processes documents using LangChain, creates vector embeddings using 
 # ✨ Features
 
 ✅ Upload PDF Documents
+
 ✅ Ask Questions from PDFs
+
 ✅ AI-generated Context-Aware Answers
+
 ✅ Semantic Search using Vector Embeddings
+
 ✅ RAG (Retrieval-Augmented Generation) Workflow
+
 ✅ Streamlit Interactive UI
+
 ✅ Fast Response using Groq API
 
 ---
